@@ -136,8 +136,7 @@ padding-bottom: $size5;
 }
 
 .h2 {
-    @include gotham-bold;
-    letter-spacing: -1;
+    @include gotham-book;
     font-size: $size4;
     font-weight: bold;
     margin-bottom: $size6;
@@ -149,7 +148,7 @@ padding-bottom: $size5;
     letter-spacing: -1;
     font-size: $size2;
     font-weight: bold;
-    margin-bottom: $size3;
+    margin-bottom: $size1;
     text-transform: uppercase;
 }
 
@@ -351,7 +350,7 @@ padding-bottom: $size5;
         font-size: $size2;
     }
     .p, ul {
-        font-size: $size2;
+        font-size: $size1;
         line-height: $size4;
     }
     .row {
@@ -359,6 +358,10 @@ padding-bottom: $size5;
     }
     .col3 {
         width: 100%;
+    }
+
+    .hero-title {
+        line-height: $size4;
     }
 
 }

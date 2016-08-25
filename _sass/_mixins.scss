@@ -1,9 +1,15 @@
 @mixin divider {
   border-bottom: 1px solid $grey-color-light;
 }
+
 @mixin gotham-bold {
   font-family: 'Gotham Bold', Helvetica, sans-serif;
 }
-@mixin gotham-light {
-  font-family: 'Gotham Light', Helvetica, sans-serif;
+
+@mixin gotham-book {
+  font-family: 'Gotham Book', Helvetica, sans-serif;
 }
+
+//@mixin gotham-light {
+//  font-family: 'Gotham Light', Helvetica, sans-serif;
+//}
