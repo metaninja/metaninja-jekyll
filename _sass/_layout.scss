@@ -1,3 +1,75 @@
+strong {
+    @include display-font;
+}
+
+ul {
+    margin-left: $size1;
+}
+
+li {
+    margin-bottom: $size1;
+}
+
+.section {
+    padding-top: $size5;
+    padding-bottom: $size5;
+    @include divider;
+}
+
+.row {
+    display: flex;
+}
+
+.col {
+    flex-grow: 1;
+    padding-right: $size3;
+}
+
+.col3 {
+    width: 33%;
+}
+
+.h2 {
+    @include display-font;
+    color: $primary-blue-color;
+    font-size: $size4;
+    font-weight: bold;
+    line-height: 1.3;
+}
+
+.h3 {
+    @include display-font;
+    letter-spacing: -1;
+    font-size: $size2;
+    font-weight: bold;
+    margin-top: $size2;
+    margin-bottom: $size1 / 2;
+}
+
+
+.p {
+    font-size: 18px;
+    line-height: $size3;
+    margin-bottom: $size2;
+}
+
+.summary {
+    font-size: $size2;
+    line-height: $size4;
+}
+
+.no-bullet {
+    margin-left: 0;
+    li {
+        list-style-type: none;
+        padding-bottom: $size1;
+    }
+}
+
+.hilite {
+    background-color: $hilite-color;
+    border-top: 1px solid white;
+}
 
 /**
 * Site header
@@ -14,7 +86,6 @@
 .site-title {
     font-size: $size3;
     font-weight: 300;
-    line-height: $size3;
     letter-spacing: -1px;
     padding-top: $size3;
     padding-bottom: $size3;
@@ -22,6 +93,8 @@
     text-transform: uppercase;
     text-decoration: none !important;
 }
+
+
 
 .site-nav {
     float: right;
@@ -97,78 +170,25 @@
 */
 
 .hero {
-padding-top: $size5;
-padding-bottom: $size5;
+padding-top: $size4;
+padding-bottom: $size4;
 @include divider;
 }
 
 .hero-title {
-    margin-bottom: $size5;
-    @include gotham-bold;
+    margin-bottom: $size2;
+    @include display-font;
     font-weight: bold;
     font-size: $size3;
     line-height: $size4;
     letter-spacing: -1;
+    color: $primary-blue-color;
+
 }
 
 .hero-desc {
     font-size: $size1;
     line-height: $size3;
-}
-
-.section {
-    padding-top: $size6;
-    padding-bottom: $size6;
-    @include divider;
-}
-
-.row {
-    display: flex;
-}
-
-.col {
-    flex-grow: 1;
-    padding-right: $size3;
-}
-
-.col3 {
-    width: 33%;
-}
-
-.h2 {
-    @include gotham-book;
-    font-size: $size4;
-    font-weight: bold;
-    margin-bottom: $size6;
-
-}
-
-.h3 {
-    @include gotham-bold;
-    letter-spacing: -1;
-    font-size: $size2;
-    font-weight: bold;
-    margin-bottom: $size1;
-    text-transform: uppercase;
-}
-
-.p {
-    font-size: $size1;
-    line-height: $size3;
-    margin-bottom: $size4;
-}
-
-.summary {
-    font-size: $size2;
-    line-height: $size4;
-}
-
-.no-bullet {
-    margin-left: 0;
-    li {
-        list-style-type: none;
-        padding-bottom: $size1;
-    }
 }
 
 

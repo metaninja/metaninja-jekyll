@@ -6,7 +6,7 @@
 
 
 // Our variables
-$base-font-family: "Gotham Book", Helvetica, Arial, sans-serif;
+$base-font-family: "Merriweather", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
@@ -21,6 +21,8 @@ $brand-color:      #343434;
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
+$primary-blue-color: #17BCFC;
+$hilite-color: #EFFC23;
 
 // Width of the content area
 $content-width:    960px;
@@ -54,10 +56,8 @@ $size6: 96px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
-        "../fonts/gotham-bold/styles",
-        "../fonts/gotham-book/styles",
         "mixins",
         "base",
-        "layout"
-        //"syntax-highlighting"
+        "layout",
+        "syntax-highlighting"
 ;
