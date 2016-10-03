@@ -1,5 +1,6 @@
 strong {
-    @include display-font;
+    @include body-font;
+    font-weight: $heavy-font-weight;
 }
 
 ul {
@@ -8,6 +9,13 @@ ul {
 
 li {
     margin-bottom: $size1;
+}
+
+.container {
+  width: 80%;
+  border-top: 1px solid $black;
+  display: block;
+  margin: auto;
 }
 
 .section {
@@ -105,6 +113,8 @@ li {
     }
 
     .page-link {
+        margin-top: 40px;
+        display: block;
         color: $text-color;
         line-height: $base-line-height;
 
@@ -385,4 +395,3 @@ padding-bottom: $size4;
     }
 
 }
-

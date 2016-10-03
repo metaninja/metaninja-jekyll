@@ -1,0 +1,23 @@
+{
+  "name": "fluffandlogic",
+  "version": "1.0.0",
+  "description": "Fluff And Logic Jekyll website",
+  "main": "index.js",
+  "dependencies": {
+    "basscss": "^8.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metaninja/metaninja-jekyll.git"
+  },
+  "author": "Sherif Tariq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/metaninja/metaninja-jekyll/issues"
+  },
+  "homepage": "https://github.com/metaninja/metaninja-jekyll#readme"
+}
