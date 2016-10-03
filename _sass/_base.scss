@@ -99,9 +99,9 @@ a {
     color: $brand-color;
     text-decoration: none;
 
-    &:visited {
-        color: darken($brand-color, 15%);
-    }
+    // &:visited {
+    //     color: darken($brand-color, 15%);
+    // }
 
     &:hover {
         color: $text-color;
@@ -177,6 +177,10 @@ pre {
         display: table;
         clear: both;
     }
+}
+
+.clearfix {
+  @extend %clearfix;
 }
 
 

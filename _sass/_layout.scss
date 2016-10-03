@@ -11,11 +11,26 @@ li {
     margin-bottom: $size1;
 }
 
+.pb1 {
+  padding-bottom: 1em;
+}
+.pr {
+  padding-right: 1em;
+}
+
+.thumbnail {
+  width: 7em;
+}
+
 .container {
   width: 80%;
   border-top: 1px solid $black;
   display: block;
   margin: auto;
+}
+
+.float-left {
+  float: left;
 }
 
 .section {
@@ -304,6 +319,7 @@ padding-bottom: $size4;
 .post-link {
     display: block;
     font-size: 24px;
+    color: $primary-blue-color;
 }
 
 

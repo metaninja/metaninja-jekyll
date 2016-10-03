@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "What does a UX designer do?"
+thumbnail: icon_what_does_UX_do.png
 date:   2016-10-01 11:59:00 -0500
 categories: ux designer
 ---
