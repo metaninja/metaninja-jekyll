@@ -37,6 +37,10 @@ li {
     padding-top: $size5;
     padding-bottom: $size5;
     @include divider;
+
+    &:last-child {
+      border: 0;
+    }
 }
 
 .row {
@@ -141,7 +145,7 @@ li {
 
     @include media-query($on-palm) {
         position: absolute;
-        top: 9px;
+        top: 36px;
         right: $spacing-unit / 2;
         background-color: $background-color;
         border: 1px solid $grey-color-light;
@@ -152,7 +156,7 @@ li {
             display: block;
             float: right;
             width: 36px;
-            height: 26px;
+            height: 36px;
             line-height: 0;
             padding-top: 10px;
             text-align: center;
@@ -384,21 +388,26 @@ padding-bottom: $size4;
 @media only screen and (min-device-width: 0) and (max-device-width : 667px) {
     /* Styles */
     body {
-        max-width: 90vw;
+        max-width: auto;
         padding-left: 5vw;
         padding-right: 5vw;
     }
+    .container {
+      width: auto;
+    }
+
     .h2 {
         font-size: $size3;
-        line-height: $size4;
+        line-height: $size3;
     }
     .h3 {
         font-size: $size2;
     }
     .p, ul {
         font-size: $size1;
-        line-height: $size4;
+        line-height: $size2;
     }
+
     .row {
         flex-wrap: wrap;
     }
