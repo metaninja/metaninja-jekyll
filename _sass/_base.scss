@@ -156,16 +156,6 @@ pre {
 }
 
 
-/**
- * Wrapper
- */
-.wrapper {
-    margin-right: auto;
-    margin-left: auto;
-    @extend %clearfix;
-}
-
-
 
 /**
  * Clearfix
@@ -180,10 +170,25 @@ pre {
 }
 
 .clearfix {
-  @extend %clearfix;
+    @extend %clearfix;
 }
 
+.mb1 {
+    margin-bottom: 16px;
+}
 
+/**
+ * Wrapper
+ */
+.wrapper {
+    margin-right: auto;
+    margin-left: auto;
+    @extend %clearfix;
+}
+
+.inline-block {
+    display: inline-block;
+}
 
 /**
  * Icons

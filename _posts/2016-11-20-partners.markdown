@@ -1,0 +1,156 @@
+---
+layout: post
+title:  "Partners"
+thumbnail: icon_partners.png
+date:   2016-11-20 08:42:00 -0500
+categories: articles
+tags: ux collaboration prototyping
+---
+
+<img src="/images/communication.svg" class="hero">
+
+<p class="p">In late 2012, Scott Forstall was let go from Apple. Forstall had created iOS and led the team until then.
+    Forstall was in a way responsible for the skeuomorphic design staying in iOS long after Microsoft and Google had
+    abandoned it in favor of a more authentically digital look. With Forstall gone, Jony Ive became responsible for the
+    design of both the software and the hardware for all of Apple.</p>
+
+<p class="p">It wasn’t a coincidence that, less than a year after Scott was let go, Apple introduced a more flat design
+    for iOS in iOS 7. It was a stark transition from the gradients and shadows of iOS 6, and it took a long time before
+    I was comfortable with it.</p>
+
+<p class="p">But something bothered me more than the transition away from the comfortable familiarity of Apple’s
+    previous skeuomorphic approach to the UI. It was immediately apparent when I used the OS: there was a certain
+    quality that was lacking in the way the various UI elements were designed. They felt slightly rough, not quite as
+    polished as Apple’s efforts to date. At first, I dismissed this as a side effect of Apple designers’ inexperience
+    with designing for a flat style. Apple’s designers were fantastic at creating incredibly detailed elements with
+    perfectly rendered shadows and gradients that seem to follow a fixed light source somewhere out of view. Flat design
+    requires discipline and restraint, and it’s not easy.</p>
+
+<p class="p">Still that explanation didn’t sit easy with me. Google and Microsoft had accomplished the same in about the
+    same amount of time, or perhaps a bit more. Microsoft had launched the Metro design system in less than a year.
+    Google had switched from the skeuomorphic Apple-like design of Android Gingerbread, to the flat, digital design
+    language that they called Holo in Honeycomb.</p>
+
+<p class="p">With iOS 8 and 9, Apple did tweak their design language for iOS further, and it did seem like things were
+    getting better. The UI looked more refined, even as they added more features. But then iOS 10 came out, and along
+    with it a sudden change to the design language that didn’t quite make sense.</p>
+
+<p class="p">For one, Apple introduced a new style for their notifications that matched the more data heavy design of
+    the Android notifications. But unlike Android, the notifications had larger, more rounded edges, edges that seemed
+    to mimic the shape and roundness of the iOS devices that they were displayed on. In addition, the design of the
+    Control Panel that slides up when you swipe up from the bottom was now split into two, with bigger buttons and
+    elements, and additional artwork for the music player that felt redundant and extraneous.</p>
+
+<p class="p">The design changes didn’t make sense. The more rounded corners made the notifications seem busy and clunky.
+    The extra artwork for the music player that apparently necessitated the need for a separate tab/screen for it, were
+    superfluous, and actually made it a little harder to play/pause music or use one of the quick actions (flashlight,
+    alarm/timer/stopwatch, etc.) that previous had just been a swipe and a click away. It was a change that was
+    unnecessary and seemed only to be there to unify the look of the UI with that of the industrial design of the
+    devices, usability be damned.</p>
+
+<p class="p">It was only one small aspect of many design changes that Apple had implemented under Jony Ive since
+    Forstall left. There were others. And there was also a change in the approach to design that was starting to veer
+    away from what Apple had done in the Steve Jobs/Scott Forstall days. There was more of a focus on form over
+    function, and a strong focus on flash and style over ease of use and usability.</p>
+
+<p class="p">I knew that Forstall leaving the company had something to do with the many of these changes. Forstall, for
+    all his personal shortcomings in the way he dealt with people, was very much like Jobs in that he was relentlessly
+    focused on the user. Ive by comparison was an industrial designer that loved beauty, as is evident in everything
+    from the bondi blue iMac to the Apple Watch.</p>
+
+<p class="p">But there was something else. And it finally dawned on me after the launch of the new Macbook Pros with the
+    touch bar, and the switch to the MacBook keyboard that I’ve found to be more painful to use (at least in the limited
+    amount of time I used it) due to the reduced key travel.</p>
+
+<p class="p">Ive is the highest designer in the company. No one else in the company has the authority or the power to
+    critique his design decisions like Jobs and Forstall did. And that’s unfortunate. Jobs had collaborated with Ive on
+    almost every design decision since he returned to Apple in 1996. The former had been a valuable partner in helping
+    to critique and temper Ive’s design decisions, and the end result was nearly a decade and a half of amazing,
+    thoughtful, delightful, and beautiful design. And Forstall’s relentless focus on the user ensured that iOS and OS X
+    were beautiful but also user friendly and accessible to boot.</p>
+
+<p class="p">Without Jobs and Forstall, there is no one else left in the company to temper Ive’s design decisions. Tim
+    Cook is a fantastic operations and sales leader, but he’s not a design leader. And without that feedback loop,
+    Apple’s design philosophy has veered away from user focused to more of an Ive-focused approach.</p>
+
+<p class="p">I’ve heard of other companies where the death of a partner caused a downward spiral in the quality of their
+    products. After the death of Walt Disney, Walt’s company floundered until it found renewed life and success through
+    the partnership of Frank Wells and Michael Eisner. But when Wells died unexpectedly, Eisner struggled and failed to
+    maintain the same quality of leadership without his partner, and eventually was pushed out of the company.</p>
+
+<p class="p">And it started me thinking about the importance of having a partner or colleague, someone who believes in
+    your vision, but is willing to critique, provide feedback, share ideas to improve that vision and work with you to
+    achieve it.</p>
+
+<p class="p">A month ago, I joined a new company as the sole UX designer. My previous gig was with Slalom, a consulting
+    company based out of Seattle, but with local offices in many large cities. We had a team of UX designers, lead by
+    Tracey, who was not only incredibly passionate and knowledgable about UX but an amazing mentor. She helped me
+    get out of my shell, and pushed me to do more than I had thought possible. As the team grow, and with it the needs
+    of the UX team, I found it harder to get time with Tracey, sharing ideas and getting feedback on my own vision of
+    UX. Thankfully, a couple of years ago, Tracey had hired a brilliant and incredibly talented UX designer/developer
+    named Marcelo.</p>
+
+<p class="p">Marcelo and I hit it off pretty quickly. We had very similar interests and approaches not just in UX and
+    interaction design, but in other aspects of our lives as well. At one point, he joined a project that I had been
+    working on for a couple of years. It turns out that our desktop setup was identical, right down to the laptop, Apple
+    USB keyboard, and the identical model of Sennheiser headphones that we had each bought independently,
+    unaware that the other had done the same. It was eerie, like meeting my twin from an alternate reality. Except he
+    was smarter, and seemingly a decade ahead of me in the goals that I had set for myself.</p>
+
+<p class="p">Marcelo became my people manager, for the last couple of years. While I missed
+    spending time with Tracey, I relished my meetings with Marcelo. We could have candid, spirited, sometimes heated
+    discussions about UX, careers, interaction design, dealing with colleagues at work, without either of us becoming
+    offended or feeling slighted. Thanks to Marcelo, I pushed forward with projects like <a class="link" href="http://bff.how">BFF</a> and
+    prototyping in code, and I learnt a lot about myself and what I wanted to do with my career, and where I wanted to
+    go.</p>
+
+<p class="p">A month ago, I left Slalom for a new company. It wasn’t an easy decision. I knew that I would be leaving
+    behind a group of people that I had come to accept as my friends, folks that I trusted, and loved,
+    and a company where I felt comfortable. Slalom was the first place in a very long time where I truly felt like part
+    of a family. I would be leaving all that for the uncertainty of a new company, a new culture, and hopefully new
+    friends, and the hope of establishing a UX centered approach in this new place.</p>
+
+<p class="p">But ultimately, what pushed me to leave, was the desire to grow as a user experience leader. I had felt
+    that the task would be difficult, if not impossible at Slalom where, I always had this incredibly talented and
+    supportive team to fall back on, and I couldn’t tell if I was succeeding because they were always there to catch me
+    when I slipped or made a mistake, or if I was truly growing as a user experience practitioner.</p>
+
+<p class="p">Over the last many years, we have talked a lot about failure, and how important it is to be willing to make
+    mistakes and fail, because only by making lots of mistakes, learning from them, and changing ourselves and our
+    actions can we hope to succeed in our goals and our dreams. My decision to leave Slalom hinged on the conclusion
+    that if I wanted to become a user experience leader, I had to make mistakes without the luxury of knowing someone
+    would be there to catch me, and that by doing so, I would learn from my mistakes, and grow into a leadership
+    role.</p>
+
+<p class="p">But I wonder if I was wrong in assuming that I had to make those mistakes alone. I’ve been listening to a
+    UX podcast for the last month, <a class="link" href="https://www.usersknow.com/podcast/"><q>What is wrong with UX</q></a>. I couldn’t have
+    stumbled on this podcast at a better time. Since leaving Slalom, I’ve found myself racked with self doubt over how
+    I’ve been approaching in UX in my new company. For one, I had joined the company because I was eager to solve some
+    of the problems I had heard during the interview. Turns out I was wrong. Those were not the problems in the company;
+    the people that the company had hired are fantastically talented and forward thinking and had actually already
+    thought about those problems and solved many of them.</p>
+
+<p class="p">The actual problems were different, and much, much harder to solve. And I wouldn’t be able to establish the
+    UX methodologies and way of thinking that I had struggled to learn, and accept, and champion, and refine at Slalom
+    so easily, and definitely not in the first month! There’s a lot of groundwork to set first, a foundation of design
+    tools, workflows and relationships with those already at the company, folks who had already implemented some UX
+    centric ideas, but had done things a certain way because of the realities of the market they were in.</p>
+
+<p class="p">I’ve felt that old standby, imposter syndrome, starting to creep back in. And I miss my UX colleagues from
+    Slalom. I miss having someone else on the team that understands what only another user experience designer could understand
+    and feel, to vent to, to bounce ideas of off, to critique my ideas, and vision,
+    and goals, to tell me “Sherif, you’re wrong, and here’s why ...”, but also to tell me what I can do better, or how I
+    can salvage my strategy.</p>
+
+<p class="p">And going through this complex mix of emotions, it dawned on me that the path to UX leadership doesn’t have
+    to be a lonely one. I had mistakenly assumed that to become a UX leader I had to make the mistakes alone. But the
+    problem with that approach is, there is no one there to tell me when I’m wrong, when I’m making a mistake, when I’m
+    failing. I have to figure it out myself. And as I struggle to recover my self confidence and reassure myself that
+    yes, I am qualified to do this, I’ve come to realize that on the road to becoming a UX leader, I need a partner, a
+    mentor, a navigator, someone more experienced than me, who can help me find my path to leadership, and guide me in
+    the right direction when I feel lost. And in Tracey, and in Marcelo, I had that guide, and mentor, and partner.</p>
+
+<p class="p">As I struggle to establish myself as a user experience leader at my new company, I will have to find just
+    such a partner. It might be someone in the company, or I might have to reach out to my friends and former colleagues
+    for advise and mentorship. And hopefully someday, when I am mature enough, and wise enough to lead my own UX team, I
+    hope that I too can be that mentor and guide to someone.</p>

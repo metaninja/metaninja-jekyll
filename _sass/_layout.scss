@@ -22,6 +22,11 @@ li {
   width: 7em;
 }
 
+.hero {
+    width: 100%;
+    height: auto;
+}
+
 .container {
   width: 80%;
   border-top: 1px solid $black;
@@ -78,6 +83,11 @@ li {
     font-size: 18px;
     line-height: $size3;
     margin-bottom: $size2;
+}
+
+.link {
+    color: $red;
+    text-decoration: underline;
 }
 
 .summary {
